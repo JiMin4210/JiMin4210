@@ -8,7 +8,7 @@
 - **OS** : `Linux`
 - **언어** : `C` `C++` `JAVA` `Python`
 - **MPU** : `Raspberry pi` `ACHRO-iMX6Q`
-- **MCU** : `Atmega128-8bit` `HCS12-16bit` `Esp8266`
+- **MCU** : `Atmega128` `HCS12` `Esp8266`
 - **Mobile** : `Android Studio`
 - **Server** : `AWS EC2`
 
