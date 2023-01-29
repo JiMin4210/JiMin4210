@@ -13,7 +13,7 @@
 - **Server** : `AWS EC2`
 
 #### 📺 Portfolio
-- [김지민_포트폴리오.pdf](https://github.com/JiMin4210/JiMin4210/files/10529573/default.pdf)
+- [**김지민_포트폴리오**](https://github.com/JiMin4210/JiMin4210/files/10529573/default.pdf)
 <!--
 **JiMin4210/JiMin4210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
