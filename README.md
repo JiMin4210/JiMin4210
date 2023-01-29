@@ -5,8 +5,8 @@
 - 얻은 **지식**을 통해 어떻게 **응용**하면 좋을지 항상 고민합니다.
 
 #### 🛠 Technical Skills
-- **언어** : `C` `C++` `JAVA` `Python`
 - **OS** : `Linux`
+- **언어** : `C` `C++` `JAVA` `Python`
 - **MPU** : `Raspberry pi` `ACHRO-iMX6Q`
 - **MCU** : `Atmega128-8bit` `HCS12-16bit` `Esp8266`
 - **Mobile** : `Android Studio`
