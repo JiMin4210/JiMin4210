@@ -5,7 +5,12 @@
 - 얻은 **지식**을 통해 어떻게 **응용**하면 좋을지 항상 고민합니다.
 
 #### 🛠 Technical Skills
-- 언어 : |C|, |C++|, |JAVA|
+- **언어** : `C`, `C++`, `JAVA`, `Python`
+- **MCU** : `Atmega128-8bit`, `HCS12-16bit`, `Esp8266`
+- **MPU** : `Raspberry pi`, `ACHRO-iMX6Q`
+- **OS** : `Linux`
+- **Server** : `AWS EC2`
+- **Mobile** : `Android Studio`
 
 <!--
 **JiMin4210/JiMin4210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
