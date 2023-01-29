@@ -6,9 +6,9 @@
 
 #### 🛠 Technical Skills
 - **언어** : `C` `C++` `JAVA` `Python`
-- **MCU** : `Atmega128-8bit` `HCS12-16bit` `Esp8266`
-- **MPU** : `Raspberry pi` `ACHRO-iMX6Q`
-- **OS** : `Linux`
+- **MCU**  : `Atmega128-8bit` `HCS12-16bit` `Esp8266`
+- **MPU**  : `Raspberry pi` `ACHRO-iMX6Q`
+- **OS**   : `Linux`
 - **Server** : `AWS EC2`
 - **Mobile** : `Android Studio`
 
