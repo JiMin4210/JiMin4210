@@ -5,6 +5,7 @@
 - 얻은 **지식**을 통해 어떻게 **응용**하면 좋을지 항상 고민합니다.
 
 #### 🛠 Technical Skills
+- 언어 : |C|, |C++|, |JAVA|
 
 <!--
 **JiMin4210/JiMin4210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
