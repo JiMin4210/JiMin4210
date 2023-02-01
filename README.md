@@ -27,16 +27,15 @@
 ## 📺 Portfolio
 - [**김지민_포트폴리오**](https://github.com/JiMin4210/JiMin4210/files/10529573/default.pdf)
   
-## 📊 My GitHub Data:
 
-<div align="center">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JiMin4210&show_icons=true" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=JiMin4210&" alt="JiMin4210" />
-</div>
 
 <!--
 
-
+## 📊 My GitHub Data:
+<center class="half">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JiMin4210&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiMin4210&" alt="JiMin4210" />
+</center>
 
 **JiMin4210/JiMin4210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
