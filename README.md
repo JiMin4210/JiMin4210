@@ -9,9 +9,10 @@
 - 🤔 얻은 **지식**을 통해 어떻게 **응용**하면 좋을지 항상 고민합니다.<br>
  
 ## 🛠 Technical Skills
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlalsk" alt="JiMin4210" />
 
 - **OS** : `Linux`
+
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlalsk" alt="JiMin4210" />
 
 - **언어** : `C` `C++` `JAVA` `Python`
 
@@ -29,8 +30,8 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JiMin4210&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JiMin4210&" alt="JiMin4210" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JiMin4210&show_icons=true" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=JiMin4210&" alt="JiMin4210" />
 </div>
 
 <!--
