@@ -25,9 +25,8 @@
 - **Server** : `AWS EC2`
 
 ## 📺 Portfolio
-- [**김지민_포트폴리오**](https://github.com/JiMin4210/JiMin4210/files/10529573/default.pdf)
+- [**김지민_포트폴리오**](https://github.com/JiMin4210/JiMin4210/files/10559851/default.pdf)
   
-
 
 <!--
 
