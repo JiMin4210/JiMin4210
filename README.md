@@ -12,10 +12,15 @@
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlalsk" alt="JiMin4210" />
 
 - **OS** : `Linux`
+
 - **언어** : `C` `C++` `JAVA` `Python`
+
 - **MPU** : `Raspberry pi` `ACHRO-iMX6Q`
+
 - **MCU** : `Atmega128` `HCS12` `Esp8266`
+
 - **Mobile** : `Android Studio`
+
 - **Server** : `AWS EC2`
 
 ## 📺 Portfolio
