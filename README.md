@@ -12,10 +12,14 @@
 - **MCU** : `Atmega128` `HCS12` `Esp8266`
 - **Mobile** : `Android Studio`
 - **Server** : `AWS EC2`
-<!--
 
 #### 📺 Portfolio
 - [**김지민_포트폴리오**](https://github.com/JiMin4210/JiMin4210/files/10529573/default.pdf)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlalsk)](https://solved.ac/rlawlalsk/)
+<!--
+
+
 
 **JiMin4210/JiMin4210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
