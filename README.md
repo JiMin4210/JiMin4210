@@ -12,7 +12,7 @@
 
 - **OS** : `Linux`
 
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlalsk" alt="JiMin4210" />
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlalsk" alt="JiMin4210" /></a>
 
 - **언어** : `C` `C++` `JAVA` `Python`
 
@@ -29,6 +29,7 @@
   
 
 <!--
+<a href="https://solved.ac/rlawlalsk/"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlalsk" alt="JiMin4210" /></a>
 
 ## 📊 My GitHub Data:
 <center class="half">
