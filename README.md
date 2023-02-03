@@ -25,10 +25,12 @@
 - **Server** : `AWS EC2`
 
 ## 📺 Portfolio
-- [**김지민_포트폴리오**](https://github.com/JiMin4210/JiMin4210/files/10559851/default.pdf)
+
   
 
 <!--
+- [**김지민_포트폴리오**](https://github.com/JiMin4210/JiMin4210/files/10559851/default.pdf)
+
 <a href="https://solved.ac/rlawlalsk/"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlalsk" alt="JiMin4210" /></a>
 
 ## 📊 My GitHub Data:
