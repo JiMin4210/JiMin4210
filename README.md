@@ -12,8 +12,6 @@
 
 - **OS** : `Linux`
 
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlalsk" alt="JiMin4210" /></a>
-
 - **언어** : `C` `C++` `JAVA` `Python`
 
 - **MPU** : `Raspberry pi` `ACHRO-iMX6Q`
@@ -32,7 +30,7 @@
 - [**김지민_포트폴리오**](https://github.com/JiMin4210/JiMin4210/files/10559851/default.pdf)
 
 <a href="https://solved.ac/rlawlalsk/"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlalsk" alt="JiMin4210" /></a>
-
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlalsk" alt="JiMin4210" /></a> // 티어
 ## 📊 My GitHub Data:
 <center class="half">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JiMin4210&show_icons=true" />
