@@ -15,7 +15,7 @@
 - **언어** : `C` `C++` `JAVA` `Python`
 
 - **MPU** : `Raspberry pi` `ACHRO-iMX6Q`
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlalsk" alt="JiMin4210" /></a>
+
 - **MCU** : `Atmega128` `HCS12` `Esp8266`
 
 - **Mobile** : `Android Studio`
@@ -28,7 +28,7 @@
 
 <!--
 - [**김지민_포트폴리오**](https://github.com/JiMin4210/JiMin4210/files/10559851/default.pdf)
-
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlalsk" alt="JiMin4210" /></a>
 <a href="https://solved.ac/rlawlalsk/"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlalsk" alt="JiMin4210" /></a>
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlalsk" alt="JiMin4210" /></a> // 티어
 ## 📊 My GitHub Data:
