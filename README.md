@@ -22,8 +22,8 @@
 
 - **Server** : `AWS EC2`
 
-## 📺 Portfolio
-
+## 📺 경력
+2024.03.27 ~ LG전자 SW개발
   
 
 <!--
