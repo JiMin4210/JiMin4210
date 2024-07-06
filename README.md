@@ -21,11 +21,11 @@
 - **Mobile** : `Android Studio`
 
 - **Server** : `AWS EC2`
-
+<!--
 ## 📺 경력
 
 - **2024.03.27** ~ LG전자 SW개발자
-  
+-->
 
 <!--
 - [**김지민_포트폴리오**](https://github.com/JiMin4210/JiMin4210/files/10559851/default.pdf)
